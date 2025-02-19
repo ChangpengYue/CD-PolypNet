@@ -1,6 +1,4 @@
-# CD-PolypNet
-
-# [CD-PolypNet: Cross-Domain Polyp Segmentation Network with Internal Feature Distillation and Dual-Stream Boundary Focus via Large Vision Model]
+# CD-PolypNet: Cross-Domain Polyp Segmentation Network with Internal Feature Distillation and Dual-Stream Boundary Focus via Large Vision Model
 
 ![](figs/Framework.png)
 
