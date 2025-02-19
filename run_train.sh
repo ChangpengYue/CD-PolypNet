@@ -1,0 +1,1 @@
+python train/train.py --checkpoint ./pretrained_checkpoint/sam_vit_l_0b3195.pth  --model-type vit_l --output work/output/ --world_size 1 --batch_size_train 4 --batch_size_valid 1 --visualize --max_epoch_num 30  --find_unused_params  
